@@ -2,6 +2,10 @@
 
 A modern, responsive web application for exploring and discovering Yu-Gi-Oh! trading cards. Built with Next.js, TypeScript, and Tailwind CSS.
 
+## 🚀 Live Demo
+
+[➡️ View the live application](https://yugioh-showcase.vercel.app)
+
 ## 🌟 Features
 
 ### 🔍 **Advanced Search & Filtering**
@@ -93,14 +97,6 @@ This project uses the [YugiohProDeck API](https://ygoprodeck.com/api-guide) whic
   - Archetype information
   - Market pricing data
   - Set and rarity information
-
-## 🚀 Live Demo
-
-**Live Demo**: [https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app)
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
